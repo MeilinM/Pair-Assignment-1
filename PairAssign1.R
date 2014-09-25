@@ -17,7 +17,7 @@ mean(women$weight)
 #Find out what the names are in the women data set
 names(women)
 
-#create BMI variable (heigh)
+#Create BMI variable (heigh)
 bmi <- (women$weight / (women$height * women$height)) * 703
 
 #Whats the BMI distribution
