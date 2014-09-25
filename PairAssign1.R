@@ -31,6 +31,6 @@ library(ggplot2)
 ggplot(women, aes(height, weight)) + geom_point()
 
 #Access Thierry's file
-
+source("Mtcars.R")
 
 
