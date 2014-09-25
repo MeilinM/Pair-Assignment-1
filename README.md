@@ -1,12 +1,21 @@
 Pair-Assignment-1
 =================
 
-Me and Tierry First Pair Assignment 
+Me and Thierry First Pair Assignment 
 
--Include R Source Code 
+-Include R Source Code
+
 -Access two 4 Data Sets
+# We chose Mtcars and Women
+
 -Basic Transformations
--Illustrate the datas' distribution 
--Dynamically link files 
+# We did check basic descriptive statistics
+
+-Illustrate the datas' distribution
+# Mtcars plot
+# Women plot
+
+-Dynamically link files
+# Sourcing and synchronizing
 
 
