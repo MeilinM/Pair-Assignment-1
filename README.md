@@ -6,7 +6,7 @@ Me and Thierry First Pair Assignment
 # We accessed two core R Data Sets
 # We chose Mtcars and Women
 # We did check basic descriptive statistics
-# To illustrate the datas' distribution, here are the plots for Mtcars and Women
+# To illustrate the datas' distribution, here are the plots and histograms for Mtcars and Women
 # We then dynamically linked our files
 
 
