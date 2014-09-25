@@ -8,4 +8,4 @@ Owen and Thierry First Pair Assignment
 # To illustrate the datas' distribution, here are the plots and histograms for Mtcars and Women
 # We then dynamically linked our files
 # We also pulled a request and suggested some changes to Lukas and Cameron Readme files
-
+# We merged to allow for changes
