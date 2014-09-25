@@ -3,19 +3,16 @@ Pair-Assignment-1
 
 Me and Thierry First Pair Assignment 
 
--Include R Source Code
+# We included R Source Code using R Studio version 3.1.1
 
--Access two 4 Data Sets
+# We accessed two core R Data Sets
+
 # We chose Mtcars and Women
 
--Basic Transformations
 # We did check basic descriptive statistics
 
--Illustrate the datas' distribution
-# Mtcars plot
-# Women plot
+# To illustrate the datas' distribution, here are the plots for Mtcars and Women
 
--Dynamically link files
-# Sourcing and synchronizing
+# We then dynamically linked our files
 
 
