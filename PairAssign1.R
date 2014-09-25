@@ -1,3 +1,4 @@
+setwd('Desktop/DataCollab/Assign1')
 #Owen Phillips' First Shot at R
 
 #Load the "women" dataset
@@ -30,8 +31,6 @@ library(ggplot2)
 ggplot(women, aes(height, weight)) + geom_point()
 
 #Access Thierry's file
-source(~/Users/phil009/Desktop/DataCollab/Mtcars.R)
-
 
 
 
