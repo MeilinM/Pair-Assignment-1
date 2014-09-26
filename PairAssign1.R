@@ -1,6 +1,10 @@
 setwd('Desktop/DataCollab/Assign1')
 #Owen Phillips' First Shot at R
 
+# Load all necessary packages before you start
+#Load up the ggplot2 package
+library(ggplot2)
+
 #Load the "women" dataset
 data(women)
 
@@ -30,8 +34,6 @@ hist(bmi, main = "Distribution of BMI values")
 plot(women, xlab = "Height of Women", ylab =
        "Weight of Women", main = "Women's Height vs Women's Weight", col = 'red')
 
-#Load up the ggplot2 package
-library(ggplot2)
 
 #Make a fancy plot in R
 ggplot(women, aes(height, weight)) + geom_point()
